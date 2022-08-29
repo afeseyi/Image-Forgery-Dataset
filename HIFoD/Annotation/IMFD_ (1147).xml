@@ -1,0 +1,50 @@
+<annotation>
+	<folder>DONE</folder>
+	<filename>IMFD_ (558).jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Mishael 60\Altered\DONE\IMFD_ (558).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>240</xmin>
+			<ymin>179</ymin>
+			<xmax>344</xmax>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>164</ymin>
+			<xmax>367</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>31</ymin>
+			<xmax>481</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>
