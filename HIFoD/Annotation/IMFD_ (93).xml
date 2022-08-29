@@ -1,0 +1,38 @@
+<annotation>
+	<folder>95</folder>
+	<filename>forged95.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\SamK2 last 50\95\forged95.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>3884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5348</xmin>
+			<ymin>1</ymin>
+			<xmax>5730</xmax>
+			<ymax>1601</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1173</xmin>
+			<ymin>182</ymin>
+			<xmax>1548</xmax>
+			<ymax>345</ymax>
+		</bndbox>
+	</object>
+</annotation>

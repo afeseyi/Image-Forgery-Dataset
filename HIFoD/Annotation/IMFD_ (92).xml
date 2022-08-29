@@ -1,0 +1,38 @@
+<annotation>
+	<folder>94</folder>
+	<filename>forged94.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\SamK2 last 50\94\forged94.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6016</width>
+		<height>3884</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4786</xmin>
+			<ymin>995</ymin>
+			<xmax>5248</xmax>
+			<ymax>1288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5011</xmin>
+			<ymin>163</ymin>
+			<xmax>5530</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>IMFD img</folder>
+	<filename>IMFD_ (42).jpg</filename>
+	<path>C:\Users\User\Documents\All Images\IMFD img\IMFD_ (42).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1469</width>
+		<height>979</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>907</xmin>
+			<ymin>317</ymin>
+			<xmax>957</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>537</ymin>
+			<xmax>574</xmax>
+			<ymax>590</ymax>
+		</bndbox>
+	</object>
+</annotation>

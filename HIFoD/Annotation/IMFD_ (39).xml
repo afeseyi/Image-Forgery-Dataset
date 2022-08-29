@@ -1,0 +1,50 @@
+<annotation>
+	<folder>IMFD img</folder>
+	<filename>IMFD_ (39).jpg</filename>
+	<path>C:\Users\User\Documents\All Images\IMFD img\IMFD_ (39).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>387</width>
+		<height>581</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>183</xmin>
+			<ymin>162</ymin>
+			<xmax>198</xmax>
+			<ymax>226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>166</ymin>
+			<xmax>143</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>279</ymin>
+			<xmax>171</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>
