@@ -1,0 +1,38 @@
+<annotation>
+	<folder>20</folder>
+	<filename>elderly-couple-6602926_1920a.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Im3 Francis\20\elderly-couple-6602926_1920a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1768</width>
+		<height>1037</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1189</xmin>
+			<ymin>599</ymin>
+			<xmax>1311</xmax>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1391</xmin>
+			<ymin>414</ymin>
+			<xmax>1551</xmax>
+			<ymax>577</ymax>
+		</bndbox>
+	</object>
+</annotation>

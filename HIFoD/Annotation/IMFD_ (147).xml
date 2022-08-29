@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Photoshop Operations</folder>
+	<filename>DSC_0007_scale_RSC.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Photoshop Operations\DSC_0007_scale_RSC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>412</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>487</xmin>
+			<ymin>149</ymin>
+			<xmax>516</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>172</ymin>
+			<xmax>300</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>466</xmin>
+			<ymin>252</ymin>
+			<xmax>515</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

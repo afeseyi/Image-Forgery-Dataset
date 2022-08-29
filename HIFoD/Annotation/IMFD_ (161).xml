@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Photoshop Operations</folder>
+	<filename>IMG_5073 RSC.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Photoshop Operations\IMG_5073 RSC.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5184</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2004</xmin>
+			<ymin>2396</ymin>
+			<xmax>2352</xmax>
+			<ymax>3027</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3462</xmin>
+			<ymin>2901</ymin>
+			<xmax>3725</xmax>
+			<ymax>3106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3962</xmin>
+			<ymin>680</ymin>
+			<xmax>4304</xmax>
+			<ymax>822</ymax>
+		</bndbox>
+	</object>
+</annotation>

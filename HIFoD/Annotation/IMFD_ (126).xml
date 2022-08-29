@@ -1,0 +1,50 @@
+<annotation>
+	<folder>23</folder>
+	<filename>fantasy_-_Elfe_and_Dragon b.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Im3 Francis\23\fantasy_-_Elfe_and_Dragon b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>508</ymin>
+			<xmax>673</xmax>
+			<ymax>534</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>149</ymin>
+			<xmax>327</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>809</xmin>
+			<ymin>407</ymin>
+			<xmax>1022</xmax>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+</annotation>

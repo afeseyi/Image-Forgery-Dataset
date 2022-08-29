@@ -1,0 +1,38 @@
+<annotation>
+	<folder>18</folder>
+	<filename>DSC_0737a.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Im3 Francis\18\DSC_0737a.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>3808</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2065</xmin>
+			<ymin>2563</ymin>
+			<xmax>2534</xmax>
+			<ymax>2794</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>869</ymin>
+			<xmax>897</xmax>
+			<ymax>1475</ymax>
+		</bndbox>
+	</object>
+</annotation>

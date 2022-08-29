@@ -1,0 +1,50 @@
+<annotation>
+	<folder>3</folder>
+	<filename>bird-6602049_1920 b.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Im3 Francis\3\bird-6602049_1920 b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>650</ymin>
+			<xmax>408</xmax>
+			<ymax>815</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>850</ymin>
+			<xmax>553</xmax>
+			<ymax>1048</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>735</ymin>
+			<xmax>702</xmax>
+			<ymax>870</ymax>
+		</bndbox>
+	</object>
+</annotation>

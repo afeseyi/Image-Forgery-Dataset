@@ -1,0 +1,50 @@
+<annotation>
+	<folder>4</folder>
+	<filename>blakeney1024x768 b.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Im3 Francis\4\blakeney1024x768 b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>732</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>removal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>530</ymin>
+			<xmax>120</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>398</xmin>
+			<ymin>522</ymin>
+			<xmax>414</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>182</ymin>
+			<xmax>171</xmax>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+</annotation>
