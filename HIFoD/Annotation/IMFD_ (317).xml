@@ -1,0 +1,38 @@
+<annotation>
+	<folder>tampered</folder>
+	<filename>tampered_twentythird.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\Daniel 60\tampered\tampered_twentythird.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2100</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1546</xmin>
+			<ymin>132</ymin>
+			<xmax>1804</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1304</xmin>
+			<ymin>1379</ymin>
+			<xmax>1363</xmax>
+			<ymax>1434</ymax>
+		</bndbox>
+	</object>
+</annotation>
