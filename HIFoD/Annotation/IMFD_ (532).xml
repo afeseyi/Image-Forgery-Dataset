@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New</folder>
+	<filename>IMFD_100.jpg</filename>
+	<path>C:\Users\User\Documents\All Images\SamK 20 Images\New\IMFD_100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4498</width>
+		<height>7806</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copymove</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>9</ymin>
+			<xmax>1899</xmax>
+			<ymax>5321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>spliced</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1762</xmin>
+			<ymin>4346</ymin>
+			<xmax>2862</xmax>
+			<ymax>5859</ymax>
+		</bndbox>
+	</object>
+</annotation>
